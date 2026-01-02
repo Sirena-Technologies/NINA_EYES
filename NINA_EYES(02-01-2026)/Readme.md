@@ -145,8 +145,7 @@ Replace or modify User\_Setup.h using the provided User\_Setup.h file configured
 Pin mappings exactly as listed in the hardware table
 
 
-
-⚠️ This step is mandatory.
+ This step is mandatory.
 
 The code will not work correctly without proper User\_Setup.h configuration.
 
@@ -301,4 +300,5 @@ Gaze will shift between center, left, and right
 
 
 Transitions will appear continuous and mechanical, matching Nino’s visual behavior
+
 
